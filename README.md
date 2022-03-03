@@ -1,1 +1,1 @@
-This is a repository for shell scripting tasks during the alx software engineering program.
+This is a project done during the ALX software engineering training on writing and shell scripts 
